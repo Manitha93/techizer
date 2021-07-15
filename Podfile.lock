@@ -9,13 +9,12 @@ DEPENDENCIES:
 SPEC REPOS:
   https://github.com/CocoaPods/Specs.git:
     - Kingfisher
-  trunk:
     - youtube-ios-player-helper
 
 SPEC CHECKSUMS:
   Kingfisher: 6c3df386db71d82c0817a429d2c9421a77396529
   youtube-ios-player-helper: 0185c57db23c80d63d6ca11251d110abb8a4ca61
 
-PODFILE CHECKSUM: c71da823052317d518f170b096b049912fec41a4
+PODFILE CHECKSUM: 6c1d97deb3618a6a7181c2dc3caaef2274b23447
 
 COCOAPODS: 1.10.1
